@@ -148,7 +148,7 @@ def force_sub(func):
                         if link:
                             buttons.append(InlineKeyboardButton(channel_name, url=link))
                         else:
-                            buttons.append(InlineKeyboardButton("Error creating invite link", url="https://t.me/Manga_Yugen"))
+                            buttons.append(InlineKeyboardButton("Error creating invite link", url="https://t.me/Animes2u"))
                     
                 from_link = message.text.split(" ")
                 if len(from_link) > 1:
@@ -471,14 +471,17 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('- ᴡᴇᴇʙs sᴇʀᴠᴇʀ -', url='https://t.me/Weebs_Server')
+                    InlineKeyboardButton('- Mᴀɪɴ Cʜᴀɴɴᴇʟ -', url='https://t.me/Animes2u')
+                ],
+                [
+                    InlineKeyboardButton('- Oɴɢᴏɪɴɢ Aɴɪᴍᴇ -', url='https://t.me/Animes3u')
+                ],
+                [
+                   InlineKeyboardButton("◇ ᴘᴀɪᴅ ᴘʀᴏᴍᴏᴛɪᴏɴs ◇", url='https://t.me/LuffyDSunGodBot')
                 ],
                 [
                    InlineKeyboardButton("⚡ ᴀʙᴏᴜᴛ ᴍᴇ", callback_data = "about"),
                    InlineKeyboardButton("🍁 ᴄʟᴏꜱᴇ", callback_data = "close")
-                ],
-                [
-                   InlineKeyboardButton("◇ ᴀᴅᴍɪɴ ʜᴇʟᴘ ◇", callback_data = "help")
                 ]
             ]
         )
@@ -508,7 +511,7 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('- ᴡᴇᴇʙs sᴇʀᴠᴇʀ -', url='https://t.me/Weebs_Server')
+                    InlineKeyboardButton('- Mᴀɪɴ Cʜᴀɴɴᴇʟ -', url='https://t.me/Animes2u')
                 ],
                 [
                    InlineKeyboardButton("⚡ ᴀʙᴏᴜᴛ ᴍᴇ", callback_data = "about"),
