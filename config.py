@@ -53,7 +53,7 @@ FSUBS = [
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 # Start message
-START_MSG = os.environ.get("START_MESSAGE", "<blockquote><b>Hᴇʏ, {mention}✌🏻. I ʜᴏᴘᴇ ʏᴏᴜ'ʀᴇ ғᴇᴇʟɪɴɢ ᴀs ᴇɴᴇʀɢᴇᴛɪᴄ ᴀs ᴀ ᴘʜᴏᴛᴏɴ ʙᴇᴀᴍ 🚀!</b></blockquote>\n\n<blockquote expandable><b>I'ᴍ Mᴀᴋɪsᴇ Kᴜʀɪsᴜ, ᴀ ʜɪɢʜʟʏ ᴏʀɢᴀɴɪᴢᴇᴅ ғɪʟᴇ ʙᴏᴛ ᴅᴇsɪɢɴᴇᴅ ᴛᴏ ᴋᴇᴇᴘ ʏᴏᴜʀ ғɪʟᴇs ɪɴ ᴏʀᴅᴇʀ ᴀɴᴅ ʀᴇᴀᴅɪʟʏ ᴀᴄᴄᴇssɪʙʟᴇ 📂. Wɪᴛʜ ᴍʏ sʏsᴛᴇᴍᴀᴛɪᴄ ᴀᴘᴘʀᴏᴀᴄʜ, ᴇᴠᴇɴ ᴛʜᴇ ᴍᴏsᴛ ᴄᴏᴍᴘʟᴇx ᴛɪᴍᴇʟɪɴᴇs ᴄᴀɴ ʙᴇ ᴍᴀɴᴀɢᴇᴅ 🧠✨. Lᴇᴛ's ᴀᴠᴏɪᴅ ᴘᴀʀᴀᴅᴏxᴇs ᴀɴᴅ ᴋᴇᴇᴘ ᴛʜɪɴɢs ᴏɴ ᴛʀᴀᴄᴋ, sʜᴀʟʟ ᴡᴇ? 💡</b></blockquote>")
+START_MSG = os.environ.get("START_MESSAGE", "<blockquote><b>Hᴇʏ, {mention}✌🏻.  I ʜᴏᴘᴇ ʏᴏᴜ'ʀᴇ ғᴇᴇʟɪɴɢ ᴛʜᴇ ᴘᴏᴡᴇʀ ᴏғ 𝐒ʜᴀᴅᴏᴡ Mᴏɴᴀʀᴄʜ 😈.</b></blockquote>\n\n<blockquote expandable><b>I'ᴍ 𝐓ʜᴇ Uʟᴛɪᴍᴀᴛᴇ Fɪʟᴇ Sʜᴀʀɪɴɢ Bᴏᴛ, ʙᴜɪʟᴛ ᴛᴏ ʀᴜʟᴇ ᴛʜᴇ 𝐒ʜᴀᴅᴏᴡ Rᴇᴀʟᴍ 🖤\n\n‣ 🔱 Sᴛᴏʀᴇ & Sʜᴀʀᴇ Fɪʟᴇs ᴡɪᴛʜ ᴀ Sɪɴɢʟᴇ Cʟɪᴄᴋ.\n‣ 🛡️ Iɴꜰɪɴɪᴛᴇ Fɪʟᴇ Mᴀɴᴀɢᴇᴍᴇɴᴛ Sʏꜱᴛᴇᴍ.\n‣ 📂 Pᴏsᴛ Fɪʟᴇs ɪɴ 𝐀ɴɪᴍᴇ Mᴏɴᴀʀᴄʜ 👑 Tᴇᴍᴘʟᴀᴛᴇ.\n\n 𝐍ᴏᴡ, 𝐓ʜᴇ Fɪʟᴇ Rᴇᴀʟᴍ Iꜱ Uɴᴅᴇʀ Mʏ Cᴏɴᴛʀᴏʟ 😈.\n\n𝐀ʀᴇ Yᴏᴜ Rᴇᴀᴅʏ ᴛᴏ Dᴏᴍɪɴᴀᴛᴇ, {mention}-Sᴀᴍᴀ? 👑</b></blockquote>")
 ADMINS = [6161189904]
 # Add other admin IDs here as needed, ensuring not to include OWNER_ID
 other_admin_ids = [6161189904]  # Replace with actual admin IDs
