@@ -38,16 +38,16 @@ class Bot(Client):
         try:
             db_channel = await self.get_chat(DB_CHANNEL_ID)
             self.db_channel = db_channel
-            test = await self.send_message(chat_id = db_channel.id, text = "Testing Message by @VOATcb")
+            test = await self.send_message(chat_id = db_channel.id, text = "Testing Message by @Sai_Nallamilli")
             await test.delete()
         except Exception as e:
             self.LOGGER(__name__).warning(e)
             self.LOGGER(__name__).warning(f"Make Sure bot is Admin in DB Channel, and Double check the DB_CHANNEL_ID Value, Current Value {DB_CHANNEL_ID}")
-            self.LOGGER(__name__).info("\nBot Stopped. Join https://t.me/Yugen_Bots_Support for support")
+            self.LOGGER(__name__).info("\nBot Stopped. Message https://t.me/Animes2u_professor_bot for support")
             sys.exit()
         
         self.set_parse_mode(ParseMode.HTML)
-        self.LOGGER(__name__).info(f"Bot Running..!\n\nCreated by \nhttps://t.me/VOATcb")
+        self.LOGGER(__name__).info(f"Bot Running..!\n\nCreated by \nhttps://t.me/Animes2u")
         self.LOGGER(__name__).info(f""" \n\n       
                                                    
                   
