@@ -12,7 +12,7 @@ settings = {
     "bot_admin": [2093552866] #e.g. 1963929292,38739292827 differetiate admins with a comma
 }
 
-HELP_MSG = """■ 𝗛𝗲𝗹𝗹𝗼, 𝗔𝗱𝗺𝗶𝗻𝘀!\n\n<blockquote expandable><b>ɴᴇᴇᴅ ʜᴇʟᴘ? ɪᴛ’s sɪᴍᴘʟᴇ: ᴊᴜsᴛ ᴋɴᴏᴄᴋ ᴏɴ <i>ʀᴀɪ ʏᴀɴ’s</i> ᴅᴏᴏʀ (ᴛʜᴀᴛ’s ᴍᴇ, ʙʏ ᴛʜᴇ ᴡᴀʏ). 🙋‍♂️ ᴡʜᴀᴛᴇᴠᴇʀ ɪᴛ ɪs—ǫᴜᴇsᴛɪᴏɴs, ᴄᴏɴᴄᴇʀɴs, ᴇxɪsᴛᴇɴᴛɪᴀʟ ᴄʀɪsᴇs ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪs ʙᴏᴛ—ᴊᴜsᴛ ᴀsᴋ.</b></blockquote>\n\n<blockquote expandable><b>ᴡʜʏ ɪs ᴛʜɪs ᴍᴇssᴀɢᴇ sᴏ sʜᴏʀᴛ? ʙᴇᴄᴀᴜsᴇ ᴛʜɪs ʙᴏᴛ ʜᴀs ᴀʟʀᴇᴀᴅʏ ᴄᴏɴsᴜᴍᴇᴅ ᴀ ʀɪᴅɪᴄᴜʟᴏᴜs ᴀᴍᴏᴜɴᴛ ᴏғ ᴍʏ ᴛɪᴍᴇ, ᴀɴᴅ ɪ’ᴍ ɴᴏᴛ ɪɴ ᴛʜᴇ ᴍᴏᴏᴅ ᴛᴏ ᴡʀɪᴛᴇ ᴀ ɴᴏᴠᴇʟ ʜᴇʀᴇ. 🤷‍♂️ sᴏ, ʏᴇᴀʜ, ʀᴇᴀᴄʜ ᴏᴜᴛ, ᴀɴᴅ ɪ’ʟʟ sᴏʀᴛ ɪᴛ ᴏᴜᴛ.</b></blockquote>\n\n<blockquote><b>ɴᴏᴡ ɢᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴛʜᴏsᴇ ʟɪɴᴋs ʟɪᴋᴇ ᴛʜᴇ ʀᴏᴄᴋsᴛᴀʀ ᴀᴅᴍɪɴ ʏᴏᴜ ᴀʀᴇ! 💪</b></blockquote>
+HELP_MSG = """■ 𝗛𝗲𝗹𝗹𝗼, 𝗔𝗱𝗺𝗶𝗻𝘀!\n\n<blockquote expandable><b>ɴᴇᴇᴅ ʜᴇʟᴘ? ɪᴛ’s sɪᴍᴘʟᴇ: ᴊᴜsᴛ ᴋɴᴏᴄᴋ ᴏɴ <i>Sᴀɪ’s</i> ᴅᴏᴏʀ (ᴛʜᴀᴛ’s ᴍᴇ, ʙʏ ᴛʜᴇ ᴡᴀʏ). 🙋‍♂️ ᴡʜᴀᴛᴇᴠᴇʀ ɪᴛ ɪs—ǫᴜᴇsᴛɪᴏɴs, ᴄᴏɴᴄᴇʀɴs, ᴇxɪsᴛᴇɴᴛɪᴀʟ ᴄʀɪsᴇs ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪs ʙᴏᴛ—ᴊᴜsᴛ ᴀsᴋ.</b></blockquote>\n\n<blockquote expandable><b>ᴡʜʏ ɪs ᴛʜɪs ᴍᴇssᴀɢᴇ sᴏ sʜᴏʀᴛ? ʙᴇᴄᴀᴜsᴇ ᴛʜɪs ʙᴏᴛ ʜᴀs ᴀʟʀᴇᴀᴅʏ ᴄᴏɴsᴜᴍᴇᴅ ᴀ ʀɪᴅɪᴄᴜʟᴏᴜs ᴀᴍᴏᴜɴᴛ ᴏғ ᴍʏ ᴛɪᴍᴇ, ᴀɴᴅ ɪ’ᴍ ɴᴏᴛ ɪɴ ᴛʜᴇ ᴍᴏᴏᴅ ᴛᴏ ᴡʀɪᴛᴇ ᴀ ɴᴏᴠᴇʟ ʜᴇʀᴇ. 🤷‍♂️ sᴏ, ʏᴇᴀʜ, ʀᴇᴀᴄʜ ᴏᴜᴛ, ᴀɴᴅ ɪ’ʟʟ sᴏʀᴛ ɪᴛ ᴏᴜᴛ.</b></blockquote>\n\n<blockquote><b>ɴᴏᴡ ɢᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴛʜᴏsᴇ ʟɪɴᴋs ʟɪᴋᴇ ᴛʜᴇ ʀᴏᴄᴋsᴛᴀʀ ᴀᴅᴍɪɴ ʏᴏᴜ ᴀʀᴇ! 💪</b></blockquote>
 """  # shown only to admins
 
 # Bot token @Botfather
@@ -41,12 +41,12 @@ if OWNER_ID not in SUDO:
 PORT = os.environ.get("PORT", "8108")
 
 # Database
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://mitsuha:mitsuha@cluster0.7zztr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://sainallamilli:Filestore1@cluster0.8urcp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
 
 # FSUBS configuration
 FSUBS = [
-    {'_id': -1002349345920, "CHANNEL_NAME": "Anime Movies"},
+    {'_id': -1002349345920, "CHANNEL_NAME": "Animes2u"},
 ]
 
 
