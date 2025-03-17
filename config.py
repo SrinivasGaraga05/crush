@@ -16,12 +16,12 @@ HELP_MSG = """■ 𝗛𝗲𝗹𝗹𝗼, 𝗔𝗱𝗺𝗶𝗻𝘀!\n\n<blockquote
 """  # shown only to admins
 
 # Bot token @Botfather
-TG_BOT_TOKEN = '7594941060:AAG7d86EiyUqqw73WuG5FemHgMP3kIYyEvs'
+TG_BOT_TOKEN = '8089542599:AAFj3d853mOLKKv7Z2FoZIvionA8hwOh7oA'
 # Your API ID from my.telegram.org
-APP_ID = int(os.environ.get("APP_ID", "26684254"))
+APP_ID = int(os.environ.get("APP_ID", "25956970"))
 
 # Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "fc836096a68be3a4fcd7594cb3d9326f")
+API_HASH = os.environ.get("API_HASH", "5fb73e6994d62ba1a7b8009991dd74b6")
 
 # Your db channel Id
 DB_CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002456061680"))
